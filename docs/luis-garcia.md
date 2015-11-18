@@ -1,5 +1,7 @@
-*** Luis Garcia ***
+# Luis Garcia
 
-## Info: ## Male
+** Info:** Male
 
-Color: Orange
+** Color:** Orange
+
+** Current City:** Villanova
